@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    
+    
+}
+.navbar{
+  
+  width: 200px;
+  height: 200px;
+  background-color: black;
+}
+.logo{
+    height: 200px;
+    width: 200px;
+    
+    
+
+}
+.div{
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+}
+.background{
+    height: 200px;
+    width: 200px;
+}
+.image.static{
+    height: 200px;
+    width: 200px;
+}
